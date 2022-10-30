@@ -1,0 +1,35 @@
+## Interface: 30400
+## Title: LogTracker_CharacterData_US
+## Version: 1.0.3
+## Author: Mylaerla-Everlook
+## Notes: Data for characters
+## X-Curse-Project-ID: 612013
+## X-Wago-ID: R4N2y4GL
+## DefaultState: enabled
+## Dependencies: LogTracker
+## LoadOnDemand: 1
+
+LogTracker_CharacterData_US.lua
+LogTracker_CharacterData_US_5000.lua
+LogTracker_CharacterData_US_5001.lua
+LogTracker_CharacterData_US_5002.lua
+LogTracker_CharacterData_US_5003.lua
+LogTracker_CharacterData_US_5005.lua
+LogTracker_CharacterData_US_5007.lua
+LogTracker_CharacterData_US_5008.lua
+LogTracker_CharacterData_US_5009.lua
+LogTracker_CharacterData_US_5010.lua
+LogTracker_CharacterData_US_5012.lua
+LogTracker_CharacterData_US_5037.lua
+LogTracker_CharacterData_US_5038.lua
+LogTracker_CharacterData_US_5060.lua
+LogTracker_CharacterData_US_5061.lua
+LogTracker_CharacterData_US_5065.lua
+LogTracker_CharacterData_US_5068.lua
+LogTracker_CharacterData_US_5069.lua
+LogTracker_CharacterData_US_5070.lua
+LogTracker_CharacterData_US_5086.lua
+LogTracker_CharacterData_US_5192.lua
+LogTracker_CharacterData_US_5193.lua
+LogTracker_CharacterData_US_5196.lua
+LogTracker_CharacterData_US_5197.lua
