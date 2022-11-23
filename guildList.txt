@@ -1,3 +1,4 @@
+
 10 mans are dope
 AA
 Acceptable Losses
@@ -10,6 +11,7 @@ adaptive power
 Adds in the Back
 Adepto Naufraga
 Adeptus
+Adrenaline
 Aegis
 Affluent
 AFK
@@ -82,6 +84,7 @@ BBV: Team Aesir
 BBV: Team Fenryr
 BBV: Team Hel
 BBV: Team Magni
+BBV: Team Vanir
 BBV: Team Vidar
 bechuely
 BEEF
@@ -137,6 +140,7 @@ Bushido
 Bussin With Da Boys
 Bussin Wit My Homies
 ButtPups
+Cabal of the Dark Lady
 cakeeaters
 Cardboard Cravers
 Carpe Prima
@@ -183,6 +187,7 @@ Communal Backcap Squad
 Competent
 Conquest
 Consequences
+Constellation
 Controlled Chaos
 CORE
 Cornpops a bad dude
@@ -362,6 +367,7 @@ Goonies
 Goth Femboy Maids
 Grand Central Parkway
 Grendels Bane
+Grey Parse
 Grey Sweatpants
 Grizzly Hills Outfitters
 Gruuls Gone Wild
@@ -984,6 +990,7 @@ Ultimate Snackrifice
 U Mad Bro
 Umbrella Corporation
 Unbroken
+Undaunted
 Undecided Gnomenclature
 UNDEROATH
 Unguild
