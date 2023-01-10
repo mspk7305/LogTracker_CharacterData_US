@@ -3,6 +3,7 @@
 AA
 Acceptable Losses
 Accepted
+Accidental Hardmode
 Accídental Hardmode
 Accidents Happen
 Acolytes
@@ -26,6 +27,7 @@ alayonuwu
 alice in chains
 All Cats Are Beautiful
 Allegiance
+All Panic
 All Panic No Disco
 All The Things
 Alpha Zero
@@ -84,6 +86,7 @@ BBV: Team Aesir
 BBV: Team Fenryr
 BBV: Team Hel
 BBV: Team Magni
+BBV: Team Odin
 BBV: Team Vanir
 BBV: Team Vidar
 bechuely
@@ -108,6 +111,7 @@ Bike with no seat
 BlackHeart Cartel
 Blades of a Fallen Rose
 Blitz
+Blitz GDKP
 Bloodbath
 Blóód Bath and Beyond
 Bloodbath in Valhalla
@@ -184,7 +188,9 @@ Collision Course
 Colonial Space Marines
 Colorful Metaphor
 Communal Backcap Squad
+Community - Fair Play
 Competent
+Competent GDKP
 Conquest
 Consequences
 Constellation
@@ -248,6 +254,7 @@ DGAF
 Die Gracefully
 Dilfs
 Ding
+Ding Dynasty
 DirtyDeeds
 Dirty Mercs Inc
 Displaced
@@ -280,8 +287,8 @@ Elysian Fields
 Emotional DPS
 Enclave
 Encore
-End Game
 Endgame
+End Game
 Enigma
 Enter The Void
 Enviados de Pelabolia
@@ -462,12 +469,14 @@ jaantje
 JACOM
 Jellybean Assassins
 JezusTakeTheWheel
+Journey
 Judgement
 J U I C E D
 junk in my bags
 Justice League
 Just the Dip
 KaieruLogs
+Kara With The Boys
 Karazhan Chess Club
 Keepers of the Light
 Khaotic Nemesis
@@ -502,6 +511,7 @@ League of Artists
 Legacy of Vallon
 Legend
 Legendary
+L E G E N D A R Y
 Legends of Eonar
 Legion of Kguku
 Legion of OOM
@@ -525,6 +535,9 @@ Loli Senpai
 LoneWolf
 Looney Toons
 Loot Ban
+Loot Ban GDKP
+Loot Ban - Team peepoComfy
+Loot Ban - Team peepoFriends
 Loot My Corpse
 Loot N Scoot
 Loot the Shinies
@@ -599,8 +612,8 @@ new players
 Nickelback
 Nightfall
 Nightmares
-Night Shift
 nightshift
+Night Shift
 Nine Plus Ten
 NOBEEFWITHU
 Nobility
@@ -644,6 +657,7 @@ One Wipe Away
 OnlyDads
 Only Friends
 OnlyFriends
+Only Murlocs
 Only's Fans
 ooldguild
 Opera Tuna Tea
@@ -681,6 +695,7 @@ Power Word Friendship
 POWNSTARS
 PRAMHEDA
 Precision
+Precision gDKP
 Premonition
 Prepared
 Prestige World Wide
@@ -710,6 +725,7 @@ RAID
 Råid Against the Machine
 Raiderade
 RAID OFF
+Rain inc
 Rain Inc
 Raising Canes
 Ram Ranch LLC
@@ -798,6 +814,7 @@ Slow Death
 Slurp
 Small Indie Guild
 Smiley Face
+Smiley Face - WOTLK
 smithonlyins
 Smoke Break
 Smút
@@ -966,6 +983,7 @@ Thrive
 Thud
 Thunder Down Under
 Timeout
+Tinyhealz
 Titan
 Toasted Tea
 Tour Bus Drivers
@@ -1047,6 +1065,7 @@ Woot for Loot
 WR
 Wrath
 Wrath of the Rich Kings
+WR Puggers
 Wrynn Guard
 Wyrmwood
 Yeah Buddy
