@@ -52,6 +52,7 @@ Arène du Royaume
 are we there yet
 ARMADA
 Armata Strigoi
+Art in Motion
 Art In Motion
 A Series of Bats
 Asha man
@@ -74,6 +75,7 @@ Bad Wolf
 Baladas
 Band of Misfitz
 Ban Incoming
+Banished
 Bankirs
 Bark
 Barrows Boys
@@ -137,6 +139,7 @@ Brojobz
 Broke and Confused
 Broken Gems
 Broken Taco
+BT
 Built Different
 Built Differently
 Burning Sensations
@@ -259,6 +262,7 @@ DirtyDeeds
 Dirty Mercs Inc
 Displaced
 Dissention
+Divorcees
 Ðmg
 Dog Eat Dog
 D O G F O O D
@@ -323,8 +327,10 @@ Fifth Elemental
 Filthy Casuals
 Filthy Pirates
 Final Boss
+Final Boss GDKP
 Flat Hearthers
 FLEET
+Foodbuddies
 F O O L S A V A G E
 For Ducks Sake
 Forlorn Legacy
@@ -433,6 +439,7 @@ Hysteria
 Ialtl
 ICC Curling Club
 ICC Tech
+IceCream Citadel
 Icon
 I Didnt Aggro
 IDSN
@@ -479,6 +486,7 @@ KaieruLogs
 Kara With The Boys
 Karazhan Chess Club
 Keepers of the Light
+Keyboard Warriors
 Khaotic Nemesis
 Kindred
 Kindred Spirits
@@ -529,6 +537,7 @@ LittleGameFamily
 Little Guild That Could
 Little Rascals
 Lively Pace
+<LKG>
 LKG
 Lobsterfest Knights
 Loli Senpai
@@ -569,6 +578,7 @@ Mastermind
 McDonalds Enjoyers
 Mediocre
 Mediocre at Best
+Mediocre At Best
 Memento
 Memes N Dreams
 Meow
@@ -676,6 +686,7 @@ Pants Party
 Parabellum
 Paradøx
 ParadoxSeven
+Parse Pals
 Pass the Felweed
 PawnHub
 Penny Smugglers
@@ -739,9 +750,12 @@ Reciprocity
 Red Eye Raiders
 Redundance
 Redundancy Team Squad
+Refine
 Reforged Redux
 Refridger Raiders
 Refugium
+Refugium Tue/Thurs
+Refugium Wed/Fri
 Rehab
 ReIax
 Relentless
@@ -853,6 +867,7 @@ Straight Twisted
 Strategy
 Straw Hats
 Strength in Honor
+Strength In Honor
 Stressed And Depressed
 Stupid Mistakes
 Subpar
@@ -882,6 +897,7 @@ Team Magma
 Team Red Shirt
 Team Sariah (10m)
 Team Squirtle Redux
+Teamwork - Fair Play
 Technically Bad
 Templar
 Temporary Insanity
@@ -1013,6 +1029,7 @@ Undaunted
 Undecided Gnomenclature
 UNDEROATH
 Unguild
+UNRESTED
 Unrestrainable
 Untethered
 Untouchablé
@@ -1050,6 +1067,7 @@ Water
 Wayward
 We are Family
 We Are Farmers
+Web of Fries
 Weekend Raiders
 welcomeboss
 We Pug Raids
@@ -1062,6 +1080,7 @@ Wipe Till Its Clean
 With Pleasure
 Woof
 Woot for Loot
+World of Wahu
 WR
 Wrath
 Wrath of the Rich Kings
