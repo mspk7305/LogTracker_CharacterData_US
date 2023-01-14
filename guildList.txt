@@ -84,6 +84,7 @@ Battered Chesticles
 Baus Raiders United
 Bawlz
 Bazinga
+BBV: PUG Raids
 BBV: Team Aesir
 BBV: Team Fenryr
 BBV: Team Hel
@@ -111,6 +112,7 @@ Big Juicy Pickles
 Big Mac Elites
 Bike with no seat
 BlackHeart Cartel
+Blackjack and Hookers
 Blades of a Fallen Rose
 Blitz
 Blitz GDKP
@@ -199,6 +201,7 @@ Consequences
 Constellation
 Controlled Chaos
 CORE
+CORE gDKP
 Cornpops a bad dude
 Corrosion of Normality
 Cosmic Toast
@@ -284,6 +287,7 @@ Drippy
 Dual Empire
 Du Vrangr Gata
 early and often
+Early Raid Crew
 Ebon Myth
 Eliasov
 Elysian
@@ -301,6 +305,7 @@ Eternity
 e t h e r e a l
 Everything Hurts
 Exalted with yourmother
+Excellence - Fair Play
 EXILES
 Exordium
 Explorers League
@@ -410,6 +415,7 @@ Hero Association
 Heroes Inc
 Hexed
 hey
+hey GDKP
 hi
 Hídden Leaf
 High Ground
@@ -512,6 +518,7 @@ Lamprey Vault
 Last Bastion
 Last Call
 Last Wish
+Late Night Crew
 Latex Warhorse
 Laughtale
 Layin the Lumber
@@ -642,6 +649,7 @@ Not Again
 Not A Good Look
 Not Applicable
 Not Now Babe
+Not Now Babe - Way of the Pump
 Not Too Sweaty
 Nox Nexus
 NUMBER ONE
@@ -752,6 +760,7 @@ Redundance
 Redundancy Team Squad
 Refine
 Reforged Redux
+Reformed
 Refridger Raiders
 Refugium
 Refugium Tue/Thurs
@@ -845,6 +854,7 @@ Sounds Fine
 Sovereignty
 SpaceBound
 Space Cadets
+Space Cadets BCC
 space mountain
 Spare Parts
 Spencers eGirls
@@ -889,6 +899,7 @@ Sworn Crusaders
 Syntax
 Taco Bell Crusade
 Taco Patrol
+TACTYC gDKP Runs
 Tangent
 Taste of It
 Tea Bag Platoon
@@ -940,6 +951,7 @@ The Forgesworn
 The Game Theory
 The Gaming Spot
 The Getaways
+The Goat Few
 The Golden Elm
 The Good Place
 The Grey Parse
@@ -954,6 +966,7 @@ The League of GILFS
 The League of Legends
 The Mad Crew
 The Night Watch
+The Northmen
 The Oasis
 Theorycraft
 The Parental Unit
@@ -1075,6 +1088,7 @@ We Wipe On Trash
 When Fat Kids Attack
 When Fish
 wigums world
+Wigum's World
 Wipe It Up
 Wipe Till Its Clean
 With Pleasure
