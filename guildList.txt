@@ -163,6 +163,7 @@ Centurion
 Cerealkillers
 Champions of the Dawn
 Chaos
+Chaos2
 Chaos Agents
 Chaos And Anarchy
 Chaos Crusaders
@@ -527,6 +528,7 @@ Legacy of Vallon
 Legend
 Legendary
 L E G E N D A R Y
+Legends
 Legends of Eonar
 Legion of Kguku
 Legion of OOM
@@ -717,6 +719,7 @@ Precision
 Precision gDKP
 Premonition
 Prepared
+Prepared SC
 Prestige World Wide
 Pretentious Guild Name
 Primørdialsm Vikings
@@ -1042,6 +1045,7 @@ Unbroken
 Undaunted
 Undecided Gnomenclature
 UNDEROATH
+Unfinished Ulduar
 Unguild
 UNRESTED
 Unrestrainable
@@ -1079,6 +1083,7 @@ Wasted Years
 Waste Management
 Water
 Wayward
+Weapon
 We are Family
 We Are Farmers
 Web of Fries
